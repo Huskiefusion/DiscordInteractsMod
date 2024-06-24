@@ -1,0 +1,12 @@
+This mod originally started with the intent of being able to customize spawn-rates, but has now shifted to general interaction with the server via Discord and spawn-rates will eventually be included in that.
+Not much exists in the way of interaction at this moment, but significantly more features are planned in the future.
+
+Use !owo [player name] to kill a player
+use !whuwu to get a list of active players
+Both are commands you need to use in Discord.
+
+If this doesn't work, you prob didn't set an API Key, and I'm not going to tell you how to do that, look it up (eventually I will probably make a setup guide and link it here but you can set the API key for your bot in the mod config but you DO need an API key for a bot).
+Before you download this mod, there is a solid chance that there are broken features. I probably already know about them but feel free to post about them if you wish.
+Eventually this mod will be slightly less of a shit-post, for instance the command naming scheme will make more sense eventually.
+This mod will update frequently for a while as I try to fix (and implement) as much as I can.
+If you have any ideas or questions, I would be happy to hear them! :)

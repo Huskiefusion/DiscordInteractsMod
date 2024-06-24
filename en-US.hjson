@@ -1,0 +1,31 @@
+Mods: {
+	DiscordInteractsMod: {
+		Configs: {
+			ChatConfig: {
+				apiKey: {
+					Tooltip: ""
+					Label: api Key
+				}
+
+				sendMessagesInIngameChat: {
+					Tooltip: ""
+					Label: send Messages In Ingame Chat
+				}
+
+				sendMessagesInDiscord: {
+					Tooltip: ""
+					Label: send Messages In Discord
+				}
+
+				DisplayName: Chat Config
+			}
+		}
+
+		Items: {
+			OwO: {
+				Tooltip: ""
+				DisplayName: Ow O
+			}
+		}
+	}
+}

@@ -1,0 +1,4 @@
+displayName = Discord Interactions
+author = Huskiefusion
+version = 0.1.0.5
+dllReferences = Discord.Net.Core, Discord.Net.WebSocket, Discord.Net.Commands, Discord.Net.Rest, System.Linq.Async

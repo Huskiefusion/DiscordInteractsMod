@@ -1,0 +1,50 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	owo: {
+		DisplayName: owo
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	OwO: {
+		DisplayName: Ow O
+		Tooltip: ""
+	}
+}
+
+Configs: {
+	Config.DisplayName: Config
+
+	SpawnRateConfig: {
+		DisplayName: Spawn Rate Config
+
+		apiKey: {
+			Label: api Key
+			Tooltip: ""
+		}
+	}
+
+	ChatConfig: {
+		DisplayName: Chat Config
+
+		sendMessagesInDiscord: {
+			Label: send Messages In Discord
+			Tooltip: ""
+		}
+
+		sendMessagesInIngameChat: {
+			Label: send Messages In Ingame Chat
+			Tooltip: ""
+		}
+
+		apiKey: {
+			Label: api Key
+			Tooltip: ""
+		}
+	}
+}
